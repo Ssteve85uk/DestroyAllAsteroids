@@ -46,6 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\BlockScript.cs" />
      <Compile Include="Assets\iTweenExamples\AccurateLob\Scripts\AccurateLob.cs" />
      <Compile Include="Assets\iTweenExamples\AccurateLob\Scripts\Bomb.cs" />
      <Compile Include="Assets\iTweenExamples\AnimatingGUITextures\Scripts\PresentationScreen.cs" />
@@ -93,7 +94,39 @@
      <Compile Include="Assets\iTweenExamples\WorkingWithPhysics\Scripts\Bat.cs" />
      <Compile Include="Assets\iTweenExamples\WorkingWithPhysics\Scripts\Brick.cs" />
      <Compile Include="Assets\iTweenExamples\WorkingWithPhysics\Scripts\SimpleCameraFade.cs" />
+     <None Include="Assets\Plugins\x86\NuiDatabase\HDFaceTracker\ViewModel\left.p.txt" />
+     <None Include="Assets\Plugins\x86\NuiDatabase\HDFaceTracker\EvalModel\right.p.txt" />
+     <None Include="Assets\Plugins\x86_64\NuiDatabase\HDFaceTracker\EvalModel\right.p.txt" />
+     <None Include="Assets\Plugins\x86\NuiDatabase\Expression\NuiExpressionModelManifest.txt" />
+     <None Include="Assets\Plugins\x86\NuiDatabase\HDFaceTracker\WholeHeadModel\FullHeadMaskVertexCorrespondence.txt" />
+     <None Include="Assets\Plugins\x86_64\NuiDatabase\HDFaceTracker\ViewModel\front.p.txt" />
+     <None Include="Assets\Plugins\x86_64\NuiDatabase\HDFaceTracker\EvalModel\Front.p.txt" />
+     <None Include="Assets\Plugins\x86_64\NuiDatabase\HDFaceTracker\MouthModel\lopen.p.txt" />
+     <None Include="Assets\Plugins\x86_64\NuiDatabase\Expression\NuiExpressionModelManifest.txt" />
+     <None Include="Assets\Plugins\x86_64\NuiDatabase\HDFaceTracker\ViewModel\right.p.txt" />
+     <None Include="Assets\Plugins\x86\NuiDatabase\HDFaceTracker\EvalModel\Front.p.txt" />
+     <None Include="Assets\Plugins\x86_64\NuiDatabase\HDFaceTracker\AAMModel\Map2D3D_HRP.txt" />
+     <None Include="Assets\Plugins\x86\NuiDatabase\HDFaceTracker\EvalModel\left.p.txt" />
+     <None Include="Assets\Plugins\x86_64\NuiDatabase\HDFaceTracker\MouthModel\close.p.txt" />
+     <None Include="Assets\Plugins\x86_64\NuiDatabase\HDFaceTracker\MouthModel\MeanShapes.txt" />
+     <None Include="Assets\Plugins\x86\NuiDatabase\HDFaceTracker\MouthModel\lopen.p.txt" />
+     <None Include="Assets\Plugins\x86\NuiDatabase\HDFaceTracker\ViewModel\right.p.txt" />
+     <None Include="Assets\Plugins\x86\NuiDatabase\HDFaceTracker\ViewModel\front.p.txt" />
+     <None Include="Assets\Plugins\x86\NuiDatabase\HDFaceTracker\SkintoneModel\skintone_shape_classifier.txt" />
+     <None Include="Assets\Plugins\x86\NuiDatabase\HDFaceTracker\MouthModel\MeanShapes.txt" />
+     <None Include="Assets\Plugins\x86\NuiDatabase\HDFaceTracker\SkintoneModel\skintone_appearance_classifier.txt" />
      <None Include="Assets\Plugins\Pixelplacement\iTween\ReadMe!\ReadMe!.txt" />
+     <None Include="Assets\Plugins\x86\NuiDatabase\HDFaceTracker\MouthModel\close.p.txt" />
+     <None Include="Assets\Plugins\x86_64\NuiDatabase\HDFaceTracker\EvalModel\left.p.txt" />
+     <None Include="Assets\Plugins\x86_64\NuiDatabase\HDFaceTracker\AAMModel\Map2D3D_F.txt" />
+     <None Include="Assets\Plugins\x86\NuiDatabase\HDFaceTracker\AAMModel\Map2D3D_HLP.txt" />
+     <None Include="Assets\Plugins\x86_64\NuiDatabase\HDFaceTracker\ViewModel\left.p.txt" />
+     <None Include="Assets\Plugins\x86_64\NuiDatabase\HDFaceTracker\SkintoneModel\skintone_shape_classifier.txt" />
+     <None Include="Assets\Plugins\x86\NuiDatabase\HDFaceTracker\AAMModel\Map2D3D_F.txt" />
+     <None Include="Assets\Plugins\x86\NuiDatabase\HDFaceTracker\AAMModel\Map2D3D_HRP.txt" />
+     <None Include="Assets\Plugins\x86_64\NuiDatabase\HDFaceTracker\AAMModel\Map2D3D_HLP.txt" />
+     <None Include="Assets\Plugins\x86_64\NuiDatabase\HDFaceTracker\SkintoneModel\skintone_appearance_classifier.txt" />
+     <None Include="Assets\Plugins\x86_64\NuiDatabase\HDFaceTracker\WholeHeadModel\FullHeadMaskVertexCorrespondence.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

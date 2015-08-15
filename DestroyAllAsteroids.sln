@@ -5,6 +5,8 @@ Project("{7BB77F22-E6B6-0429-8B81-23C5CA0BACE8}") = "DestroyAllAsteroids", "Asse
 EndProject
 Project("{7BB77F22-E6B6-0429-8B81-23C5CA0BACE8}") = "DestroyAllAsteroids", "Assembly-CSharp.csproj", "{C40AA64A-6DFF-4F74-75C4-DFD23A688E95}"
 EndProject
+Project("{7BB77F22-E6B6-0429-8B81-23C5CA0BACE8}") = "DestroyAllAsteroids", "Assembly-CSharp-Editor-firstpass.csproj", "{A4FD0D89-867A-4EE4-3A50-F4A4A80A3317}"
+EndProject
 Project("{7BB77F22-E6B6-0429-8B81-23C5CA0BACE8}") = "DestroyAllAsteroids", "Assembly-UnityScript.unityproj", "{EFC31C2A-31CA-0700-B9D3-C149BDE041BA}"
 EndProject
 Global
@@ -21,6 +23,10 @@ Global
 		{C40AA64A-6DFF-4F74-75C4-DFD23A688E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C40AA64A-6DFF-4F74-75C4-DFD23A688E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C40AA64A-6DFF-4F74-75C4-DFD23A688E95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4FD0D89-867A-4EE4-3A50-F4A4A80A3317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4FD0D89-867A-4EE4-3A50-F4A4A80A3317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4FD0D89-867A-4EE4-3A50-F4A4A80A3317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4FD0D89-867A-4EE4-3A50-F4A4A80A3317}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EFC31C2A-31CA-0700-B9D3-C149BDE041BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EFC31C2A-31CA-0700-B9D3-C149BDE041BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFC31C2A-31CA-0700-B9D3-C149BDE041BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -29,7 +35,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
+						GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
@@ -48,4 +54,5 @@ Global
 		$3.inheritsScope = text/plain
 		$3.scope = text/plain
 	EndGlobalSection
+
 EndGlobal
